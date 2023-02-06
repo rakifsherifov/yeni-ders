@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\05.02.23\Nullbale types\bin\Debug\netcoreapp3.1\Nullbale types.exe
+C:\Users\USER\source\repos\05.02.23\Nullbale types\bin\Debug\netcoreapp3.1\Nullbale types.deps.json
+C:\Users\USER\source\repos\05.02.23\Nullbale types\bin\Debug\netcoreapp3.1\Nullbale types.runtimeconfig.json
+C:\Users\USER\source\repos\05.02.23\Nullbale types\bin\Debug\netcoreapp3.1\Nullbale types.runtimeconfig.dev.json
+C:\Users\USER\source\repos\05.02.23\Nullbale types\bin\Debug\netcoreapp3.1\Nullbale types.dll
+C:\Users\USER\source\repos\05.02.23\Nullbale types\bin\Debug\netcoreapp3.1\Nullbale types.pdb
+C:\Users\USER\source\repos\05.02.23\Nullbale types\obj\Debug\netcoreapp3.1\Nullbale types.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\05.02.23\Nullbale types\obj\Debug\netcoreapp3.1\Nullbale types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\05.02.23\Nullbale types\obj\Debug\netcoreapp3.1\Nullbale types.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\05.02.23\Nullbale types\obj\Debug\netcoreapp3.1\Nullbale types.AssemblyInfo.cs
+C:\Users\USER\source\repos\05.02.23\Nullbale types\obj\Debug\netcoreapp3.1\Nullbale types.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\05.02.23\Nullbale types\obj\Debug\netcoreapp3.1\Nullbale types.dll
+C:\Users\USER\source\repos\05.02.23\Nullbale types\obj\Debug\netcoreapp3.1\Nullbale types.pdb
+C:\Users\USER\source\repos\05.02.23\Nullbale types\obj\Debug\netcoreapp3.1\Nullbale types.genruntimeconfig.cache
